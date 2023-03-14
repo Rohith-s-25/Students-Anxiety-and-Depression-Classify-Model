@@ -1,4 +1,4 @@
-# Students-Anxiety-and-Depression-Classify-Model
+# Students-Anxiety-and-Depression-Classification
 
 ![image](https://www.sciencenews.org/wp-content/uploads/2023/02/021123_LS_depression_feat.jpg)
 
