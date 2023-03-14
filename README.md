@@ -1,6 +1,6 @@
 # Students-Anxiety-and-Depression-Classify-Model
 
-![image](https://user-images.githubusercontent.com/73172152/221621006-ca8dc5e0-4eb1-4fc0-b72b-975af6834edc.png)
+![image](https://www.sciencenews.org/wp-content/uploads/2023/02/021123_LS_depression_feat.jpg)
 
 # Background
 
