@@ -28,7 +28,7 @@ Test set: 1,394 posts (20% hold-out, stratified), 146 of them labelled as showin
 
 ![Class balance](figures/class_balance.png)
 
-The dataset file (`dataset.xlsx`) is not included in this repository.
+**Source:** [Students Anxiety and Depression Dataset](https://www.kaggle.com/datasets/sahasourav17/students-anxiety-and-depression-dataset) by Sourav Saha on Kaggle. The author allows educational use only, not commercial use. Download it as `dataset.xlsx`; the file isn't included in this repository.
 
 ---
 
@@ -58,7 +58,7 @@ pip install pandas numpy scikit-learn nltk wordcloud seaborn matplotlib scikit-p
 python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
 ```
 
-Put `dataset.xlsx` next to the notebook, change the `path` variable in the third cell to `''`, then run all cells.
+Download the [dataset from Kaggle](https://www.kaggle.com/datasets/sahasourav17/students-anxiety-and-depression-dataset), save it as `dataset.xlsx` next to the notebook, change the `path` variable in the third cell to `''`, then run all cells.
 
 ---
 
